@@ -1,5 +1,5 @@
 **These sample codes will show  you my expertise. They do not contain any confidential information.**    
-I did similar work for a biggest seller in Canada.   
+I did similar work for one of the biggest sellers in Canada.   
 
 # SQL_cursor_FindSameClient
 Use PostgreSQL cursor, find the same client in a table.
